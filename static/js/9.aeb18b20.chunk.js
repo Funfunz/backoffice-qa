@@ -1,0 +1,2 @@
+(this.webpackJsonpbackoffice=this.webpackJsonpbackoffice||[]).push([[9],{103:function(c,e,t){},106:function(c,e,t){"use strict";t.r(e);var n=t(1),o=t(0),i=t(103),a=t.n(i),s=function(){return Object(n.jsx)("div",{className:a.a.logoutContainer,children:"Logout view"})};e.default=Object(o.memo)(s)}}]);
+//# sourceMappingURL=9.aeb18b20.chunk.js.map
